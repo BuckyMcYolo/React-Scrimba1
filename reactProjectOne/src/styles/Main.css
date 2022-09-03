@@ -12,3 +12,7 @@
   padding: 8px;
   font-size: 20px;
 }
+.list li::marker {
+  color: #61dafb;
+  font-size: 1.4rem;
+}

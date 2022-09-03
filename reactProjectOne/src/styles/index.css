@@ -12,4 +12,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  background-image: url(../assets/reactjs-icon2.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-position-y: 90%;
+  background-size: 12rem;
 }
